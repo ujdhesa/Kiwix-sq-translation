@@ -10,1035 +10,1050 @@
 # Author: Olsi
 msgid ""
 msgstr ""
-""
-"PO-Revision-Date: 2019-01-19 16:14:27+0000\n"
-"POT-Creation-Date: 2019-01-19 16:14:27+0000\n"
+"PO-Revision-Date: 2019-01-19 18:12+0200\n"
+"POT-Creation-Date: 2018-12-26 07:43:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sq\n"
-"X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-11-05\n"
+"X-Generator: Poedit 2.2\n"
 "X-Language-Code: sq\n"
 "X-Message-Group: kiwix\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
 
 #
 msgctxt "android.ui.add_bookmark"
 msgid "Add bookmark"
-msgstr ""
+msgstr "Shtoni faqerojtës"
 
 #
 msgctxt "android.ui.all_history_cleared_toast"
 msgid "All History Cleared"
-msgstr ""
+msgstr "U pastrua Krejt Historiku"
 
 #
 msgctxt "android.ui.articlesearch_hint"
 msgid "Type to lookup articles"
-msgstr ""
+msgstr "Shtypni që të kërkohen artikuj"
 
 #
 msgctxt "android.ui.bookmark_added"
 msgid "Bookmark added"
-msgstr ""
+msgstr "U shtua faqerojtës"
 
 #
 msgctxt "android.ui.bookmark_removed"
 msgid "Bookmark removed"
-msgstr ""
+msgstr "U hoq faqerojtës"
 
 #
 msgctxt "android.ui.bookmarks_restored"
 msgid "Bookmarks restored"
-msgstr ""
+msgstr "U rimor faqerojtës"
 
 #. [Wiki] {{Identical|Back to top}}
 msgctxt "android.ui.button_backtotop"
 msgid "Back to Top"
-msgstr ""
+msgstr "Mbrapsht te Kreu"
 
 #
 msgctxt "android.ui.choose_file"
 msgid "Select a Content File (*.zim)"
-msgstr ""
+msgstr "Përzgjidhni një Kartelë Lënde  (*.zim)"
 
 #
 msgctxt "android.ui.clear_all_history_dialog_title"
 msgid "Clear All History"
-msgstr ""
+msgstr "Pastro Krejt Historikun"
 
 #
 msgctxt "android.ui.clear_recent_and_tabs_history_dialog"
 msgid "Are you sure you want to delete your search history and reset all active tabs?"
-msgstr ""
+msgstr "Jeni i sigurt se doni të fshihet historiku juaj i kërkimeve dhe të rikthehen krejt skedat aktive?"
 
 #
 msgctxt "android.ui.clear_recent_history_dialog"
 msgid "Are you sure you want to delete your search history?"
-msgstr ""
+msgstr "Jeni i sigurt se doni të fshihet historiku juaj i kërkimeve?"
 
 #
 msgctxt "android.ui.confirm_stop_download_msg"
 msgid "Are you sure you want to stop this download?"
-msgstr ""
+msgstr "Jeni i sigurt se dëshironi të ndalet ky shkarkim?"
 
 #
 msgctxt "android.ui.confirm_stop_download_title"
 msgid "Stop download?"
-msgstr ""
+msgstr "Të ndalet shkarkim?"
 
 #
 msgctxt "android.ui.customapp_missing_content"
-msgid "Your application is corrupted.\nThis might happen when you remove files on the SD Card.\nYou need to uninstall then reinstall the App from the Play Store."
+msgid ""
+"Your application is corrupted.\n"
+"This might happen when you remove files on the SD Card.\n"
+"You need to uninstall then reinstall the App from the Play Store."
 msgstr ""
+"Aplikacioni juaj është i cenuar.\n"
+"Kjo mund të ndodhë kur hiqni kartela te Kujtesa SD.\n"
+"Lypset ta çinstaloni dhe mandej ta riinstaloni Aplikacioni që nga Play Store."
 
 #. [Wiki] {{Identical|Delete}}
 msgctxt "android.ui.delete"
 msgid "Delete"
-msgstr ""
+msgstr "Fshije"
 
 #
 msgctxt "android.ui.delete_recent_search_item"
 msgid "Delete this item?"
-msgstr ""
+msgstr "Të fshihet ky objekt?"
 
 #
 msgctxt "android.ui.delete_specific_search_toast"
 msgid "Recent search removed"
-msgstr ""
+msgstr "U hoqën kërkimet së fundi"
 
 #
 msgctxt "android.ui.delete_specific_zim"
 msgid "Delete this file?"
-msgstr ""
+msgstr "Të fshihet kjo kartelë?"
 
 #
 msgctxt "android.ui.delete_specific_zim_toast"
 msgid "File deleted"
-msgstr ""
+msgstr "Kartela u fshi"
 
 #
 msgctxt "android.ui.delete_tab"
 msgid "Delete Tab"
-msgstr ""
+msgstr "Fshije Skedën"
 
 #
 msgctxt "android.ui.delete_zim_failed"
 msgid "Sorry we were unable to delete this file. You should try using a file manager instead."
-msgstr ""
+msgstr "Na ndjeni, s\\’qemë në gjendje ta fshinim këtë kartelë. Në vend të kësaj, duhet të provoni duke përdorur një përgjegjës kartelash."
 
 #
 msgctxt "android.ui.deleted_message"
 msgid "deleted"
-msgstr ""
+msgstr "i fshirë"
 
 #
 msgctxt "android.ui.did_you_know"
 msgid "Did you know?"
-msgstr ""
+msgstr "E dinit se?"
 
 #
 msgctxt "android.ui.do_not_ask_anymore"
 msgid "Do not ask anymore"
-msgstr ""
+msgstr "Mos pyet më"
 
 #
 msgctxt "android.ui.download_change_storage"
 msgid "Storage device selector"
-msgstr ""
+msgstr "Përzgjedhës pajisjeje depozitimi"
 
 #. [Wiki] {{Identical|Close}}
 msgctxt "android.ui.download_close"
 msgid "Close"
-msgstr ""
+msgstr "Mbylle"
 
 #
 msgctxt "android.ui.download_complete_snackbar"
 msgid "Download complete"
-msgstr ""
+msgstr "Shkarkim i plotësuar"
 
 #
 msgctxt "android.ui.download_no_space"
 msgid "Insufficient space to download this file."
-msgstr ""
+msgstr "Hapësirë e pamjaftueshme për shkarkimin e kësaj kartele."
 
 #
 msgctxt "android.ui.download_over_network"
 msgid "Are you sure you want to start the download without WiFi?"
-msgstr ""
+msgstr "Jeni i sigurt se doni të niset shkarkimi pa WiFi?"
 
 #. [Wiki] {{Identical|Pause}}
 msgctxt "android.ui.download_pause"
 msgid "Pause"
-msgstr ""
+msgstr "Ndalesë"
 
 #
 msgctxt "android.ui.download_paused"
 msgid "paused"
-msgstr ""
+msgstr "i ndalur"
 
 #
 msgctxt "android.ui.download_play"
 msgid "Play"
-msgstr ""
+msgstr "Luaje"
 
 #
 msgctxt "android.ui.download_started_library"
 msgid "Download started…"
-msgstr ""
+msgstr "Shkarkimi filloi…"
 
 #. [Wiki] {{Identical|Stop}}
 msgctxt "android.ui.download_stop"
 msgid "Stop"
-msgstr ""
+msgstr "Ndale"
 
 #
 msgctxt "android.ui.error_articlenotfound"
 msgid "Error: Loading article \\\"%1$s\\\" failed."
-msgstr ""
+msgstr "Gabim: Dështoi ngarkimi i artikullit \\\"%1$s\\\"."
 
 #
 msgctxt "android.ui.error_articleurlnotfound"
 msgid "Error: Loading article (Url: %1$s) failed."
-msgstr ""
+msgstr "Gabim: Dështoi ngarkimi i artikullit (Url: %1$s)."
 
 #
 msgctxt "android.ui.error_fileinvalid"
 msgid "Error: The selected file is not a valid ZIM file."
-msgstr ""
+msgstr "Gabim: Kartela e përzgjedhur s’është kartelë ZIM e vlefshme."
 
 #
 msgctxt "android.ui.error_filenotfound"
 msgid "Error: The selected ZIM file could not be found."
-msgstr ""
+msgstr "Gabim: S\\’u gjet dot kartela ZIM e përzgjedhur."
 
 #
 msgctxt "android.ui.error_nozimfilesfound"
-msgid "No content found on your device.\nTake a look at the Help Page to get directions on how to load content into Kiwix.\nIf you did put a ZIM file on your device/external storage, you might retry in a minute or restart your device."
+msgid ""
+"No content found on your device.\n"
+"Take a look at the Help Page to get directions on how to load content into Kiwix.\n"
+"If you did put a ZIM file on your device/external storage, you might retry in a minute or restart your device."
 msgstr ""
+"S\\’u gjet lëndë në pajisjen tuaj.\n"
+"Hidhini një sy Faqes së Ndihmës që të merrni ide se si të ngarkohet lëndë në Kiwix.\n"
+"Nëse vendosët një kartelë ZIM në pajisjen/depozitën e jashtme tuaj, mund të riprovoni pas një minute ose të rinsni pajisjen."
 
 #
 msgctxt "android.ui.external_link_popup_dialog_message"
 msgid "You are entering an external link. This could lead to additional costs for data transfer or will just not work when you are offline. Do you want to continue?"
-msgstr ""
+msgstr "Po hyni në një lidhje të jashtme. Kjo mund të sjellë kosto shtesë për shpërngulje të dhënash ose thjesht mund të mos funksionojë, nëse s’jeni i lidhur në internet. Doni të vazhdohet?"
 
 #
 msgctxt "android.ui.external_link_popup_dialog_title"
 msgid "Entering External Link"
-msgstr ""
+msgstr "Po hyhet Në Lidhje të Jashtme"
 
 #. [Wiki] {{Identical|External}}
 msgctxt "android.ui.external_storage"
 msgid "External"
-msgstr ""
+msgstr "I jashtëm"
 
 #
 msgctxt "android.ui.get_library_over_network"
 msgid "Use network to download content list. (Approximately 6MB)"
-msgstr ""
+msgstr "Përdor rrjetin për shkarkim liste lënde. (Afërsisht 6MB)"
 
 #
 msgctxt "android.ui.go_to_play_store"
 msgid "Go to Play Store"
-msgstr ""
+msgstr "Kaloni te Play Store"
 
 #
 msgctxt "android.ui.got_it"
 msgid "Got it"
-msgstr ""
+msgstr "E kuptova"
 
 #
 msgctxt "android.ui.help_10"
 msgid "You can either download your choosen ZIM files in-app or carefuly select the one(s) you want and download from a Desktop computer before transfering the ZIM files to your SD card."
 msgstr ""
+"Mundeni ose t\\’i shkarkoni brenda aplikacionit kartelat ZIM që keni zgjedhur, ose të përzgjidhni me kujdes atë(ato) që doni dhe ta(t\\’i) shkarkoni nga një kompjuter desktop përpara se të shpërngulni kartelat ZIM te kujtesa juaj SD "
+"card."
 
 #
 msgctxt "android.ui.help_11"
 msgid "ZIM files download in-app are located in the external storage directory in a folder entitled Kiwix."
-msgstr ""
+msgstr "Kartelat ZIM të shkarkuara brenda aplikacionit gjenden te drejtoria e depozitimit të jashtëm, në një dosje të quajtu Kiwix."
 
 #
 msgctxt "android.ui.help_12"
 msgid "How to use large ZIM files?"
-msgstr ""
+msgstr "Si të përdoren kartela ZIM të mëdha?"
 
 #
 msgctxt "android.ui.help_13"
 msgid "If your ZIM file is larger than 4GB, you might not be able to store it on your SD card due to filesystem limitations."
-msgstr ""
+msgstr "Nëse kartela juaj ZIM është më e madhe se 4GB, mund të mos jeni në gjendje ta depozitoni te kujtesa juaj SD për shkak kufizimesh nga sistemi i kartelave."
 
 #
 msgctxt "android.ui.help_14"
 msgid "Downloading in-app automaticaly handles larger files, splitting them up for you."
-msgstr ""
+msgstr "Shkarkimi brenda aplikacionit i trajton automatikisht kartelat e mëdha, duke i ndarë në copa për ju."
 
 #
 msgctxt "android.ui.help_15"
 msgid "If however you are downloading on another device, you may need to split the ZIM file up using the following software:"
-msgstr ""
+msgstr "Por nëse po shkarkoni në një tjetër pajisje, mund të donit ta ndanit kartelën ZIM në copa duke përdorur programin vijues:"
 
 #
 msgctxt "android.ui.help_16"
 msgid "\\u2022 On Microsoft Windows: HJ-Split"
-msgstr ""
+msgstr "\\u2022 Në Microsoft Windows: HJ-Split"
 
 #
 msgctxt "android.ui.help_17"
 msgid "\\u2022 On Apple Mac OSX: Split and Concat"
-msgstr ""
+msgstr "\\u2022 Në Apple Mac OSX: Split and Concat"
 
 #
 msgctxt "android.ui.help_18"
 msgid "\\u2022 On GNU/Linux and with the console: split --bytes=4000M my_big_file.zim"
-msgstr ""
+msgstr "\\u2022 Në GNU/Linux dhe që nga terminali: split --bytes=4000M my_big_file.zim"
 
 #
 msgctxt "android.ui.help_19"
 msgid "Note: your resulting files must be named my_big_file.zimaa, my_big_file.zimab, etc."
-msgstr ""
+msgstr "Shënim: kartelat e prodhuara për ju duhet të emërtohen si emri_i_kartelës_time_të_madhe.zimaa, emri_i_kartelës_time_të_madhe.zimab, etj."
 
 #
 msgctxt "android.ui.help_1"
 msgid "Kiwix allows you offline access to websites such as Wikipedia in a highly compressed form."
-msgstr ""
+msgstr "Kiwix-i ju lejon përdorim pa internet të sajteve të tillë si Wikipedia, në një format tejet të ngjeshur."
 
 #
 msgctxt "android.ui.help_20"
 msgid "Thank you for choosing Kiwix!"
-msgstr ""
+msgstr "Faleminderit për zgjedhjen e Kiwix-it!"
 
 #
 msgctxt "android.ui.help_21"
 msgid "We are glad to have you on board and would appreciate any feedback or suggestions at android@kiwix.org."
-msgstr ""
+msgstr "Jemi të gëzuar t\\’ju kemi mes nesh dhe do ta çmonim shumë çfarëdo përshtypje apo sugjerim, dërguar te android@kiwix.org."
 
 #
 msgctxt "android.ui.help_2"
 msgid "What does Kiwix do?"
-msgstr ""
+msgstr "Ç’kryen Kiwix-i?"
 
 #
 msgctxt "android.ui.help_3"
 msgid "Kiwix is an offline content reader. It acts very much like a browser but instead of accessing online web pages, it reads content from a file in ZIM format."
 msgstr ""
+"Kiwix është një lexues lënde pa internet. Funksionon shumë ngjashëm me një shfletues, por në vend të përdorimit\n"
+"“online” të faqeve web, lëndën e lexon që nga një kartelë në formatin ZIM."
 
 #
 msgctxt "android.ui.help_4"
 msgid "While Kiwix has been originaly designed to provide Wikipedia offline, it also reads other contents."
-msgstr ""
+msgstr "Edhe pse fillimisht qe konceptuar për të lejuar përdorimin pa internet të Wikipedia-s, mund të përdoret edhe për lëndë tjetër."
 
 #
 msgctxt "android.ui.help_5"
 msgid "Where is the content?"
-msgstr ""
+msgstr "Ku është lënda?"
 
 #
 msgctxt "android.ui.help_6"
 msgid "Our content is hosted on the Kiwix website."
-msgstr ""
+msgstr "Lënda strehohet në sajtin Kiwix."
 
 #
 msgctxt "android.ui.help_7"
 msgid "They are available as ZIM files. There are a lot of them:"
-msgstr ""
+msgstr "Janë të përdorshme në trajtë kartelash ZIM. Ka plot të tilla:"
 
 #
 msgctxt "android.ui.help_8"
 msgid "\\u2022 Wikipedia is available separately for each language"
-msgstr ""
+msgstr "\\u2022 Wikipedia mund të kihet ndaras për çdo gjuhë"
 
 #
 msgctxt "android.ui.help_9"
 msgid "\\u2022 Other contents like Wikileaks or Wikisource are also available"
-msgstr ""
+msgstr "\\u2022 Ka të gatshme lëndë tjetër, të tillë si Wikileaks ose Wikisource"
 
 #
 msgctxt "android.ui.hint_contents_drawer_message"
 msgid "You can swipe left to view the contents of this article"
-msgstr ""
+msgstr "Mund ta fërkoni kah majtas që të shihni lëndën e këtij artikulli"
 
 #
 msgctxt "android.ui.internal_storage"
 msgid "Internal"
-msgstr ""
+msgstr "I brendshëm"
 
 #
 msgctxt "android.ui.language_count"
 msgid "(%1$d)"
-msgstr ""
+msgstr "(%1$d)"
 
 #
 msgctxt "android.ui.local_zims"
 msgid "Device"
-msgstr ""
+msgstr "Pajisje"
 
 #. [Wiki] {{Identical|Back}}
 msgctxt "android.ui.menu_back"
 msgid "Back"
-msgstr ""
+msgstr "Mbrapsht"
 
 #. [Wiki] {{Identical|Bookmark}}
 msgctxt "android.ui.menu_bookmarks"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Faqerojtës"
 
 #. [Wiki] {{Identical|Bookmark}}
 msgctxt "android.ui.menu_bookmarks_list"
 msgid "Bookmarks"
-msgstr ""
+msgstr "Faqerojtës"
 
 #
 msgctxt "android.ui.menu_exitfullscreen"
 msgid "Exit full screen"
-msgstr ""
+msgstr "Dil nga mënyra Sa Krejt Ekrani"
 
 #
 msgctxt "android.ui.menu_forward"
 msgid "Forward"
-msgstr ""
+msgstr "Përpara"
 
 #
 msgctxt "android.ui.menu_fullscreen"
 msgid "Full screen"
-msgstr ""
+msgstr "Sa krejt ekrani"
 
 #. [Wiki] {{Identical|Help}}
 msgctxt "android.ui.menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Ndihmë"
 
 #. [Wiki] {{Identical|Home}}
 msgctxt "android.ui.menu_home"
 msgid "Home"
-msgstr ""
+msgstr "Kreu"
 
 #
 msgctxt "android.ui.menu_library"
 msgid "Download content files"
-msgstr ""
+msgstr "Shkarko kartela lënde"
 
 #
 msgctxt "android.ui.menu_randomarticle"
 msgid "Random article"
-msgstr ""
+msgstr "Artikull kuturu"
 
 #
 msgctxt "android.ui.menu_read_aloud"
 msgid "Read aloud"
-msgstr ""
+msgstr "Lexoje me zë"
 
 #
 msgctxt "android.ui.menu_read_aloud_stop"
 msgid "Stop reading aloud"
-msgstr ""
+msgstr "Ndale leximin me zë"
 
 #. [Wiki] Used as menu item.
 msgctxt "android.ui.menu_rescan_fs"
 msgid "Rescan SD card"
-msgstr ""
+msgstr "Riskano kartë SD"
 
 #
 msgctxt "android.ui.menu_search"
 msgid "Search article"
-msgstr ""
+msgstr "Kërkoni artikull"
 
 #
 msgctxt "android.ui.menu_searchintext"
 msgid "Find in page"
-msgstr ""
+msgstr "Gjej në faqe"
 
 #. [Wiki] {{Identical|Settings}}
 msgctxt "android.ui.menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Rregullime"
 
 #. [Wiki] Displayed in application menu
 msgctxt "android.ui.menu_zim_manager"
 msgid "Get Content"
-msgstr ""
+msgstr "Merrni Lëndë"
 
 #
 msgctxt "android.ui.new_tab_snackbar"
 msgid "Article opened in new tab"
-msgstr ""
+msgstr "Artikulli u hap në skedë të re"
 
 #
 msgctxt "android.ui.next"
 msgid "Next"
-msgstr ""
+msgstr "Pasuesi"
 
 #. [Wiki] {{Identical|No}}
 msgctxt "android.ui.no"
 msgid "No"
-msgstr ""
+msgstr "Jo"
 
 #. [Wiki] This means "there are no bookmarks"
 msgctxt "android.ui.no_bookmarks"
 msgid "No Bookmarks"
-msgstr ""
+msgstr "S\\’ka Faqerojtës"
 
 #
 msgctxt "android.ui.no_downloads_here"
 msgid "No downloads here"
-msgstr ""
+msgstr "S\\’ka shkarkime këtu"
 
 #
 msgctxt "android.ui.no_files_here"
 msgid "No files here"
-msgstr ""
+msgstr "S\\’ka kartela këtu"
 
 #
 msgctxt "android.ui.no_network_connection"
 msgid "No network connection"
-msgstr ""
+msgstr "S\\’ka lidhje rrjeti"
 
 #
 msgctxt "android.ui.no_network_msg"
 msgid "No network connection"
-msgstr ""
+msgstr "S\\’ka lidhje rrjeti"
 
 #
 msgctxt "android.ui.no_reader_application_installed"
 msgid "Could not find an installed application for this type of file"
-msgstr ""
+msgstr "S\\’u gjet dot ndonjë aplikacion i instaluar për këtë lloj kartele"
 
 #
 msgctxt "android.ui.no_section_info"
 msgid "No Content Headers Found"
-msgstr ""
+msgstr "S\\’u gjetën Krye Lënde"
 
 #. [Wiki] {{Identical|Open}}
 msgctxt "android.ui.open"
 msgid "Open"
-msgstr ""
+msgstr "Hape"
 
 #
 msgctxt "android.ui.open_in_new_tab"
 msgid "Open link in new tab?"
-msgstr ""
+msgstr "Të hapet lidhja në skedë të re?"
 
 #
 msgctxt "android.ui.open_partial_zim"
 msgid "This file could be incomplete. Do you wish to attempt to open it?"
-msgstr ""
+msgstr "Kjo kartelë mund të jetë e paplotë. Doni të provohet të hapet?"
 
 #
 msgctxt "android.ui.other_languages"
 msgid "Other languages:"
-msgstr ""
+msgstr "Gjuhë të tjera:"
 
 #
 msgctxt "android.ui.path_not_writable"
 msgid "Can not access desired directory, using default. To fix this reselect the desired directory in app settings."
-msgstr ""
+msgstr "S\\’hyhet dot te drejtori e dëshiruar, po përdoret parazgjedhja. Që të ndreqet kjo, ripërzgjidhni drejtorinë e dëshiruar te rregullimet e aplikacionit."
 
 #
 msgctxt "android.ui.pref_autonightmode"
 msgid "Automated night mode"
-msgstr ""
+msgstr "Mënyrë mbrëmje automatike"
 
 #
 msgctxt "android.ui.pref_autonightmode_summary"
 msgid "Automatically switch between day and night mode."
-msgstr ""
+msgstr "Mënyrat ditë dhe mbrëmje këmbeji automatikisht."
 
 #. [Wiki] {{Identical|Back to top}}
 msgctxt "android.ui.pref_backtotop"
 msgid "Back to Top"
-msgstr ""
+msgstr "Mbrapsht te Kreu"
 
 #
 msgctxt "android.ui.pref_backtotop_summary"
 msgid "Display a button at the end of the page to scroll up to the top"
-msgstr ""
+msgstr "Shfaq në fund të faqes një buton për t\\’u ngjitur sipër në krye"
 
 #
 msgctxt "android.ui.pref_bottomtoolbar"
 msgid "Enable bottom toolbar"
-msgstr ""
+msgstr "Aktivizo panel të poshtëm"
 
 #
 msgctxt "android.ui.pref_bottomtoolbar_summary"
 msgid "Display a toolbar with quick actions at the bottom of the screen"
-msgstr ""
+msgstr "Shfaq në fund të ekranit një panel me butona veprimesh të shpejta"
 
 #
 msgctxt "android.ui.pref_clear_all_history_summary"
 msgid "Clear recent searches and tabs history"
-msgstr ""
+msgstr "Pastro historik kërkimesh dhe skedash së fundi"
 
 #
 msgctxt "android.ui.pref_clear_all_history_title"
 msgid "Clear history"
-msgstr ""
+msgstr "Pastro historikun"
 
 #
 msgctxt "android.ui.pref_credits"
 msgid "Contributors and Licenses"
-msgstr ""
+msgstr "Ndihmëtarë dhe Licenca"
 
 #
 msgctxt "android.ui.pref_credits_title"
 msgid "Credits"
-msgstr ""
+msgstr "Falënderime"
 
 #
 msgctxt "android.ui.pref_current_folder"
 msgid "Current Folder"
-msgstr ""
+msgstr "Dosja e Tanishme"
 
 #. [Wiki] {{Identical|Display}}
 msgctxt "android.ui.pref_display_title"
 msgid "Display"
-msgstr ""
+msgstr "Ekran"
 
 #
 msgctxt "android.ui.pref_external_link_popup_summary"
 msgid "Display popup to warn about additional costs or not working in offline links."
-msgstr ""
+msgstr "Shfaq një flluskë për të sinjalizuar mbi kosto shtesë ose për mosfunksionim lidhjesh “offline”"
 
 #
 msgctxt "android.ui.pref_external_link_popup_title"
 msgid "Warn when entering external links"
-msgstr ""
+msgstr "Sinjalizo kur hyhet në lidhje të jashtme"
 
 #
 msgctxt "android.ui.pref_extras"
 msgid "Extras"
-msgstr ""
+msgstr "Ekstra"
 
 #
 msgctxt "android.ui.pref_full_text_search_summary"
 msgid "Allow app to search the text within articles. Caution this can slow search down considerably."
-msgstr ""
+msgstr "Lejoje aplikacioni të kërkojë tekst brenda artikujsh. Vëre në dijeni që kjo mund të shkaktojë ngadalësim të konsiderueshëm të kërkimit."
 
 #
 msgctxt "android.ui.pref_full_text_search_title"
 msgid "Fulltext Search"
-msgstr ""
+msgstr "Kërkim Teksti të Plotë"
 
 #
 msgctxt "android.ui.pref_hidetoolbar"
 msgid "Hide toolbar when scrolling"
-msgstr ""
+msgstr "Fshihe panelin gjatë rrëshqitjesh"
 
 #
 msgctxt "android.ui.pref_hidetoolbar_summary"
 msgid "Hide the toolbar when the page is scrolled down"
-msgstr ""
+msgstr "Fshihe panelin kur rrëshqitet poshtë në faqe"
 
 #. [Wiki] {{Identical|Information}}
 msgctxt "android.ui.pref_info_title"
 msgid "Information"
-msgstr ""
+msgstr "Informacione"
 
 #. [Wiki] {{Identical|Version}}
 msgctxt "android.ui.pref_info_version"
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #. [Wiki] {{Identical|Choose language}}
 msgctxt "android.ui.pref_language_chooser"
 msgid "Choose a language"
-msgstr ""
+msgstr "Zgjidhni një gjuhë"
 
 #. [Wiki] {{Identical|Language}}
 msgctxt "android.ui.pref_language_title"
 msgid "Language"
-msgstr ""
+msgstr "Gjuhë"
 
 #
 msgctxt "android.ui.pref_multi_search_summary"
 msgid "Allow app to search the across ZIM files (Warning Very Experimental)."
-msgstr ""
+msgstr "Lejoje aplikacionin të kërkojë nëpër kartela ZIM (Sinjalizoji Që Kjo Është Shumë Eksperimentale)."
 
 #
 msgctxt "android.ui.pref_multi_search_title"
 msgid "MultiZim Search"
-msgstr ""
+msgstr "Kërkim MultiZim"
 
 #
 msgctxt "android.ui.pref_newtab_background_summary"
 msgid "When opening a new tab it will open in background"
-msgstr ""
+msgstr "Kur hapet një skedë e re, do të hapet në prapaskenë"
 
 #
 msgctxt "android.ui.pref_newtab_background_title"
 msgid "Open new tab in background"
-msgstr ""
+msgstr "Hap skedë të re në prapaskenë"
 
 #
 msgctxt "android.ui.pref_nightmode"
 msgid "Night mode"
-msgstr ""
+msgstr "Mënyra mbrëmje"
 
 #
 msgctxt "android.ui.pref_nightmode_summary"
 msgid "Show articles with inverted colors"
-msgstr ""
+msgstr "Shfaqi artikujt me ngjyra së prapthi"
 
 #
 msgctxt "android.ui.pref_storage"
 msgid "Storage"
-msgstr ""
+msgstr "Depozitim"
 
 #
 msgctxt "android.ui.pref_wifi_only"
 msgid "Download content only via WiFi"
-msgstr ""
+msgstr "Shkarko lëndë vetëm përmes WiFi-it"
 
 #
 msgctxt "android.ui.pref_zoom_dialog"
 msgid "Zoom level"
-msgstr ""
+msgstr "Shkallë zmadhimi/zvogëlimi"
 
 #
 msgctxt "android.ui.pref_zoom_enable"
 msgid "Zoom controls"
-msgstr ""
+msgstr "Kontrolle zmadhimi/zvogëlimi"
 
 #. [Wiki] {{Identical|Automatic}}
 msgctxt "android.ui.pref_zoom_entry_automatic"
 msgid "Automatic"
-msgstr ""
+msgstr "Automatike"
 
 #. [Wiki] {{Identical|Large}}
 msgctxt "android.ui.pref_zoom_entry_large"
 msgid "Large"
-msgstr ""
+msgstr "E madhe"
 
 #. [Wiki] {{Identical|Medium}}
 msgctxt "android.ui.pref_zoom_entry_medium"
 msgid "Medium"
-msgstr ""
+msgstr "Mesatare"
 
 #. [Wiki] {{Identical|Small}}
 msgctxt "android.ui.pref_zoom_entry_small"
 msgid "Small"
-msgstr ""
+msgstr "E vogël"
 
 #. [Wiki] {{Identical|Zoom}}
 msgctxt "android.ui.pref_zoom_sub_title"
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 #. [Wiki] {{Identical|Previous}}
 msgctxt "android.ui.previous"
 msgid "Previous"
-msgstr ""
+msgstr "E mëparshmja"
 
 #
 msgctxt "android.ui.proceed"
 msgid "Proceed"
-msgstr ""
+msgstr "Kryeje"
 
 #
 msgctxt "android.ui.rate_dialog_msg_1"
 msgid "If you enjoy using"
-msgstr ""
+msgstr "Nëse ju pëlqen përdorimi i"
 
 #
 msgctxt "android.ui.rate_dialog_msg_2"
 msgid ", please take a moment to rate it. Thanks for your support!"
-msgstr ""
+msgstr ", ju lutemi, ndaluni një çast dhe vlerësojeni. Faleminderit për përkrahjen që na bëni!"
 
 #. [Wiki] {{Identical|No thanks}}
 msgctxt "android.ui.rate_dialog_negative"
 msgid "No, thanks"
-msgstr ""
+msgstr "Jo, faleminderit"
 
 #. [Wiki] {{Identical|Later}}
 msgctxt "android.ui.rate_dialog_neutral"
 msgid "Later"
-msgstr ""
+msgstr "Më vonë"
 
 #. [Wiki] {{Identical|Rate}}
 msgctxt "android.ui.rate_dialog_positive"
 msgid "Rate!"
-msgstr ""
+msgstr "Vlerësojeni!"
 
 #
 msgctxt "android.ui.rate_dialog_title"
 msgid "Please Rate Us"
-msgstr ""
+msgstr "Ju Lutemi, Vlerësonani"
 
 #
 msgctxt "android.ui.reboot_message"
 msgid "Due to a bug in android 6.0 we require you to reboot your device to continue without granting us the storage permission. We are sorry for any inconvenience this may cause."
-msgstr ""
+msgstr "Për shkak të një të mete në android 6.0, ju kërkojmë të rinisni pajisjen tuaj, për të vazhduar pa na akorduar leje depozitimi. Kërkojmë ndjesë për çfarëdo sikleti që kjo mund të shkaktojë."
 
 #
 msgctxt "android.ui.remote_zims"
 msgid "Online"
-msgstr ""
+msgstr "Në linjë"
 
 #
 msgctxt "android.ui.remove_bookmark"
 msgid "Remove bookmark"
-msgstr ""
+msgstr "Hiq faqerojtës"
 
 #
 msgctxt "android.ui.request_storage"
 msgid "To access offline content we need access to your storage"
-msgstr ""
+msgstr "Që të përdorni lëndë jashtë interneti, na duhet hyrje te depoja juaj"
 
 #
 msgctxt "android.ui.request_storage_custom"
 msgid "If you see a screen overlay warning simply restart your device to fix."
-msgstr ""
+msgstr "Nëse shihni një skenë mbishtesë sinjalizim, thjesht rinisni pajisjen tuaj që ta ndreqni këtë."
 
 #
 msgctxt "android.ui.rescan_fs_warning"
 msgid "Scanning for downloadable content, please wait…"
-msgstr ""
+msgstr "Po skanohet për lëndë të shkarkueshme, ju lutemi, prisni…"
 
 #
 msgctxt "android.ui.save_media"
 msgid "Save Media"
-msgstr ""
+msgstr "Ruajë Median"
 
 #
 msgctxt "android.ui.save_media_error"
 msgid "An error occurred when trying to save the media!"
-msgstr ""
+msgstr "Ndodhi një gabim teksa provohej të ruhej media!"
 
 #
 msgctxt "android.ui.save_media_saved"
 msgid "Saved media as %s to Android/media/org.kiwix.../"
-msgstr ""
+msgstr "U ruajt media si %s te Android/media/org.kiwix…/"
 
 #. [Wiki] {{Identical|Search}}
 msgctxt "android.ui.search_label"
 msgid "Search"
-msgstr ""
+msgstr "Kērko"
 
 #
 msgctxt "android.ui.search_widget_text"
 msgid "Search Kiwix"
-msgstr ""
+msgstr "Kërkoni në Kiwix"
 
 #
 msgctxt "android.ui.space_available"
 msgid "Space Available:"
-msgstr ""
+msgstr "Hapësirë e Përdorshme:"
 
 #
 msgctxt "android.ui.speech_not_supported"
 msgid "Sorry! Your device does not support speech input"
-msgstr ""
+msgstr "Na ndjeni! Pajisja juaj nuk mbulon input përmes të folurës"
 
 #
 msgctxt "android.ui.speech_prompt_text"
 msgid "Speak to search %s"
-msgstr ""
+msgstr "Flisni që të kërkohet '%s'"
 
 #
 msgctxt "android.ui.tab_closed"
 msgid "Tab closed"
-msgstr ""
+msgstr "Skeda u mbyll"
 
 #
 msgctxt "android.ui.time_day"
 msgid "day"
-msgstr ""
+msgstr "ditë"
 
 #
 msgctxt "android.ui.time_hour"
 msgid "h"
-msgstr ""
+msgstr "h"
 
 #. [Wiki] This is the past participle of the verb "to leave" (meaning "quitted" or "exited"). This is used in a context of "X minutes left" to finish a download.
 msgctxt "android.ui.time_left"
 msgid "left"
-msgstr ""
+msgstr "edhe"
 
 #
 msgctxt "android.ui.time_minute"
 msgid "min"
-msgstr ""
+msgstr "min."
 
 #
 msgctxt "android.ui.time_second"
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #
 msgctxt "android.ui.tts_lang_not_supported"
 msgid "The language of this page is not supported, or appropriate language data was not installed. The article may not be properly read."
-msgstr ""
+msgstr "Gjuha e kësaj faqeje nuk mbulohet, ose s’janë instaluar të dhëna të gjuhës përkatëse. Artikulli mund të mos lexohet si duhet."
 
 #
 msgctxt "android.ui.tts_not_enabled"
 msgid "Text to speech is not enabled for this ZIM file"
-msgstr ""
+msgstr "Për këtë kartelë ZIM s’bëhet dot shndërrim nga tekst në të folur"
 
 #
 msgctxt "android.ui.tts_pause"
 msgid "pause"
-msgstr ""
+msgstr "ndalesë"
 
 #
 msgctxt "android.ui.tts_resume"
 msgid "resume"
-msgstr ""
+msgstr "rimerre"
 
 #. [Wiki] {{Identical|Stop}}
 msgctxt "android.ui.tts_stop"
 msgid "stop"
-msgstr ""
+msgstr "ndale"
 
 #. [Wiki] {{Identical|Undo}}
 msgctxt "android.ui.undo"
 msgid "Undo"
-msgstr ""
+msgstr "Zhbëje"
 
 #
 msgctxt "android.ui.wait_for_load"
 msgid "Content Still Loading"
-msgstr ""
+msgstr "Lëndë Ende Në Ngarkim"
 
 #
 msgctxt "android.ui.wifi_only_msg"
 msgid "If you choose \"Yes\" you won\\'t be warned in future. However, you can always change this in Settings"
-msgstr ""
+msgstr "Nëse zgjidhni \"Po\", s’do të sinjalizoheni më në të ardhmen. Sidoqoftë, mundeni përherë ta ndryshoni këtë, te Rregullimet"
 
 #
 msgctxt "android.ui.wifi_only_title"
 msgid "Allow downloading content via mobile network?"
-msgstr ""
+msgstr "Të lejohet shkarkim lënde përmes rrjetit celular?"
 
 #. [Wiki] {{Identical|Yes}}
 msgctxt "android.ui.yes"
 msgid "Yes"
-msgstr ""
+msgstr "Po"
 
 #
 msgctxt "android.ui.your_languages"
 msgid "Selected languages:"
-msgstr ""
+msgstr "Gjuhë të përzgjedhura:"
 
 #
 msgctxt "android.ui.zim_already_downloading"
 msgid "Zim is already downloading"
-msgstr ""
+msgstr "ZIM-i është duke shkarkuar tashmë"
 
 #
 msgctxt "android.ui.zim_downloads"
 msgid "Downloading"
-msgstr ""
+msgstr "Shkarkim"
 
 #
 msgctxt "android.ui.zim_file_downloaded"
 msgid "Downloaded"
-msgstr ""
+msgstr "U shkarkua"
 
 #
 msgctxt "android.ui.zim_file_downloading"
 msgid "Downloading"
-msgstr ""
+msgstr "Po shkarkim"
 
 #. [Wiki] {{Identical|Library}}
 msgctxt "android.ui.zim_manager"
 msgid "Library"
-msgstr ""
+msgstr "Bibliotekë"
 
 #
 msgctxt "android.ui.zim_nopic"
 msgid "No Pictures"
-msgstr ""
+msgstr "S\\’ka Foto"
 
 #
 msgctxt "android.ui.zim_novid"
 msgid "No Videos"
-msgstr ""
+msgstr "S\\’ka Video"
 
 #
 msgctxt "android.ui.zim_simple"
 msgid "Simple"
-msgstr ""
+msgstr "I thjeshtë"
 
-#, optional
 msgctxt "ui.main.about.accesskey"
 msgid "A"
-msgstr ""
+msgstr "R"
 
 #. [Wiki] With the menu entry "About", the user opens a modal dialog box giving detailed information about the software and their developers.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.about-0.png
 #. [Wiki] File:Kiwix-ui.main.about-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.about"
 msgid "About &brand.brandShortName;"
-msgstr "Rreth &brand.brandShortName;"
+msgstr "Rreth &brand.brandShortName;-it"
 
 #. [Wiki] Contextual menu item for HTML5 videos
 msgctxt "ui.main.audible"
 msgid "Audible"
-msgstr "I Ndëgjuesëm"
+msgstr "I dëgjueshëm"
 
 #. [Wiki] {{Identical|Back}}
 msgctxt "ui.main.back"
 msgid "Back"
-msgstr "Prapa"
+msgstr "Mbrapsht"
 
 #. [Wiki] {{Identical|Bookmark}}
 msgctxt "ui.main.bmkLabel"
 msgid "Bookmarks:"
-msgstr "Faqe-shenjuesi"
+msgstr "Faqerojtës:"
 
 #. [Wiki] {{Identical|Bookmark}}
 msgctxt "ui.main.bookmarks"
 msgid "Bookmarks"
-msgstr "Faqe-shenjues"
+msgstr "Faqerojtës:"
 
-#, optional
 msgctxt "ui.main.browseLibrary.accesskey"
 msgid "B"
-msgstr ""
+msgstr "L"
 
 #. [Wiki] The menu entry "Browse library" opens a view listing all local and remotly available contents.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.browseLibrary-0.png
 #. [Wiki] File:Kiwix-ui.main.browseLibrary-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.browseLibrary"
 msgid "Browse library"
-msgstr "Shfleto librarinë"
+msgstr "Shfletoni librarinë"
 
-#, optional
 msgctxt "ui.main.checkIntegrity.accesskey"
 msgid "k"
-msgstr ""
+msgstr "K"
 
 #. [Wiki] This tests the current ZIM file for integrity. If the check is good, the file is usable. If the check fails, the file is corrupted.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.checkIntegrity-0.png
 #. [Wiki] File:Kiwix-ui.main.checkIntegrity-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.checkIntegrity"
 msgid "Integrity check"
-msgstr "Kontrollimi i tërësisë"
+msgstr "Kontroll iintegriteti"
 
 #. [Wiki] {{Identical|Close}}
 msgctxt "ui.main.close"
 msgid "Close"
 msgstr "Mbylle"
 
-#, optional
 msgctxt "ui.main.copy.accesskey"
 msgid "p"
-msgstr ""
+msgstr "o"
 
 #. [Wiki] This appears as the text for the menu option of [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Copy}}
 msgctxt "ui.main.copy"
 msgid "Copy"
-msgstr "Kopjo"
+msgstr "Kopjoje"
 
 #. [Wiki] Copy link URL to the clipboard. This menu entry is available using the contextual menu for external links.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.copyLinkAdress-0.png
 #. [Wiki] </gallery>
@@ -1051,68 +1066,63 @@ msgstr "Kopjo adresën e lidhjes"
 #. [Wiki] The only two possible values are:
 #. [Wiki] * ltr : for left-to-right scripts
 #. [Wiki] * rtl : for right-to-left scripts (eg: arabic, hebrew,...)
-#, optional
 msgctxt "ui.main.cssdirection"
 msgid "ltr"
-msgstr ""
+msgstr "mnd"
 
 #
 msgctxt "ui.main.defaultset"
 msgid "Default Set"
-msgstr "Kompleti aktiv"
+msgstr "Grup Parazgjedhje"
 
-#, optional
 msgctxt "ui.main.display.accesskey"
 msgid "D"
-msgstr ""
+msgstr "E"
 
 #. [Wiki] This is a noun, like the third (left two right) menu entry in Firefox. It appears as the text for the main menu bar of [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Display}}
 msgctxt "ui.main.display"
 msgid "Display"
-msgstr "Shfaq"
+msgstr "Ekran"
 
-#, optional
 msgctxt "ui.main.edit.accesskey"
 msgid "E"
-msgstr ""
+msgstr "P"
 
 #. [Wiki] Text for the main menu bar of [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Edit}}
 msgctxt "ui.main.edit"
 msgid "Edit"
-msgstr "Redakto"
+msgstr "Përpunoni"
 
 #. [Wiki] {{Identical|Feedback}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.feedback-0.png
 #. [Wiki] File:Kiwix-ui.main.feedback-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.feedback"
 msgid "Feedback"
-msgstr "Përshtypja"
+msgstr "Përshtypje"
 
-#, optional
 msgctxt "ui.main.file.accesskey"
 msgid "F"
-msgstr ""
+msgstr "s"
 
 #. [Wiki] Text for the main menu bar of [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|File}}
 msgctxt "ui.main.file"
 msgid "File"
-msgstr "Dosja"
+msgstr "Kartelë"
 
-#, optional
 msgctxt "ui.main.find.accesskey"
 msgid "S"
-msgstr ""
+msgstr "G"
 
 #
 msgctxt "ui.main.find"
 msgid "Search in page..."
-msgstr "Kërko në faqe..."
+msgstr "Kërkoni në faqe…"
 
 #
 msgctxt "ui.main.findInText"
@@ -1124,25 +1134,23 @@ msgctxt "ui.main.forward"
 msgid "Forward"
 msgstr "Përpara"
 
-#, optional
 msgctxt "ui.main.fullscreen.accesskey"
 msgid "F"
-msgstr ""
+msgstr "k"
 
 #. [Wiki] Text for the main menu bar of [http://www.kiwix.org Kiwix], expanding the window to the full screen.
 #. [Wiki] {{Identical|Full screen}}
 msgctxt "ui.main.fullscreen"
 msgid "Full screen"
-msgstr "Ekran i plotë"
+msgstr "Sa krejt ekrani"
 
-#, optional
 msgctxt "ui.main.help.accesskey"
 msgid "H"
-msgstr ""
+msgstr "N"
 
 #. [Wiki] Text for the main menu bar of [http://www.kiwix.org Kiwix]. Show the Help of the software.
 #. [Wiki] {{Identical|Help}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.help-0.png
 #. [Wiki] File:Kiwix-ui.main.help-1.png
@@ -1154,77 +1162,75 @@ msgstr "Ndihmë"
 #
 msgctxt "ui.main.hideLibrary"
 msgid "Hide library"
-msgstr "Fshih biblotekën"
+msgstr "Fshihe bibliotekën"
 
 #. [Wiki] {{Identical|Home}}
 msgctxt "ui.main.home"
 msgid "Home"
-msgstr "Faqja Krzesore"
+msgstr "Kreu"
 
-#, optional
 msgctxt "ui.main.invertedColors.accesskey"
 msgid "I"
-msgstr ""
+msgstr "p"
 
 #
 msgctxt "ui.main.invertedColors"
 msgid "Inverted colors"
-msgstr "Ngjyrat e ndërruara"
+msgstr "Ngjyra së prapthi"
 
-#, optional
 msgctxt "ui.main.language.accesskey"
 msgid "L"
-msgstr ""
+msgstr "G"
 
 #. [Wiki] This appears as the text for the menu option to establish the language for [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Language}}
 msgctxt "ui.main.language"
 msgid "Language"
-msgstr "Gjuha"
+msgstr "Gjuhë"
 
 #. [Wiki] Text for the menu bar of [http://www.kiwix.org Kiwix], showing history of recently opened pages.
 msgctxt "ui.main.lastOpen"
 msgid "Recently open..."
-msgstr "Hapur kohët e fundit..."
+msgstr "Hapur së fundi…"
 
 #. [Wiki] Menu entry allowing to start an indexing process. This index creation is necessary if user wants to make fulltext searches.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.launchIndexing-0.png
 #. [Wiki] File:Kiwix-ui.main.launchIndexing-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.launchIndexing"
 msgid "Launch indexing"
-msgstr ""
+msgstr "Nis indeksimin"
 
 #. [Wiki] [Filter by] all authors.
 #. [Wiki] {{Identical|All}}
 msgctxt "ui.main.library.filterBy.author.all"
 msgid "All"
-msgstr "Të gjitha"
+msgstr "Krejt"
 
 #. [Wiki] {{Identical|Author}}
 msgctxt "ui.main.library.filterBy.author"
 msgid "Author"
-msgstr "Autori"
+msgstr "Autor"
 
 #. [Wiki] Preceded by {{msg-kiwix|ui.main.library.filterBy}}
 #. [Wiki] {{Identical|File size}}
 msgctxt "ui.main.library.filterBy.fileSize"
 msgid "File size"
-msgstr "Madhësia e skedës"
+msgstr "Madhësi kartele"
 
 #. [Wiki] [Filter by] all languages.
 #. [Wiki] {{Identical|All}}
 msgctxt "ui.main.library.filterBy.language.all"
 msgid "All"
-msgstr "Të gjitha"
+msgstr "Krejt"
 
 #. [Wiki] Preceded by {{msg-kiwix|ui.main.library.filterBy}}.
 #. [Wiki] {{Identical|Language}}
 msgctxt "ui.main.library.filterBy.language"
 msgid "Language"
-msgstr "Gjuha"
+msgstr "Gjuhë"
 
 #. [Wiki] {{Identical|Less than}}
 msgctxt "ui.main.library.filterBy.lessThan"
@@ -1235,30 +1241,30 @@ msgstr "Më pak se"
 #. [Wiki] {{Identical|All}}
 msgctxt "ui.main.library.filterBy.publisher.all"
 msgid "All"
-msgstr "Të gjitha"
+msgstr "Krejt"
 
 #. [Wiki] Preceded by {{msg-kiwix|ui.main.library.filterBy}}.
 #. [Wiki] {{Identical|Publisher}}
 msgctxt "ui.main.library.filterBy.publisher"
 msgid "Publisher"
-msgstr "Publikuesi"
+msgstr "Botues"
 
 #. [Wiki] Followed by filter options: {{msg-kiwix|ui.main.library.filterBy.fileSize}}, {{msg-kiwix|ui.main.library.filterBy.language}}, {{msg-kiwix|ui.main.library.filterBy.author}} and {{msg-kiwix|ui.main.library.filterBy.publisher}}
 msgctxt "ui.main.library.filterBy"
 msgid "Filter by"
-msgstr "Filtro nga"
+msgstr "Filtro sipas"
 
 #. [Wiki] Link to a list of all available files to download
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.library.getNewFiles-0.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.library.getNewFiles"
 msgid "Get new files"
-msgstr "Merr skeda të reja"
+msgstr "Merr kartela të reja"
 
 #. [Wiki] Link to view all downloaded files
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.library.myLibrary-0.png
 #. [Wiki] </gallery>
@@ -1267,237 +1273,228 @@ msgid "My library"
 msgstr "Libraria ime"
 
 #. [Wiki] This label is followed by a search box. A user may need it to filter contents based on their title and description.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.library.searchZimFiles-0.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.library.searchZimFiles"
 msgid "Search ZIM files"
-msgstr "Kërko për skeda ZIM"
+msgstr "Kërko për kartela ZIM"
 
 #. [Wiki] Preceded by {{msg-kiwix|ui.main.library.sortBy}}
 #. [Wiki] {{Identical|Author}}
 msgctxt "ui.main.library.sortBy.author"
 msgid "Author"
-msgstr "Autori"
+msgstr "Autorësh"
 
 #. [Wiki] Preceded by {{msg-kiwix|ui.main.library.sortBy}}
 #. [Wiki] {{Identical|Date}}
 msgctxt "ui.main.library.sortBy.date"
 msgid "Date"
-msgstr "Data"
+msgstr "Datash"
 
 #. [Wiki] Preceded by {{msg-kiwix|ui.main.library.sortBy}}.
 #. [Wiki] {{Identical|Publisher}}
 msgctxt "ui.main.library.sortBy.publisher"
 msgid "Publisher"
-msgstr "Publikuesi"
+msgstr "Botuesish"
 
 #. [Wiki] Preceded by {{msg-kiwix|ui.main.library.sortBy}}
 #. [Wiki] {{Identical|Size}}
 msgctxt "ui.main.library.sortBy.size"
 msgid "Size"
-msgstr "Madhësia"
+msgstr "Madhësish"
 
 #. [Wiki] Preceded by {{msg-kiwix|ui.main.library.sortBy}}
 #. [Wiki] {{Identical|Title}}
 msgctxt "ui.main.library.sortBy.title"
 msgid "Title"
-msgstr "Titulli"
+msgstr "Titujsh"
 
 #. [Wiki] Followed by a dropdown menu to sort the file list.
 #. [Wiki] {{Identical|Sort by}}
 msgctxt "ui.main.library.sortBy"
 msgid "Sort by"
-msgstr "Rendit nga"
+msgstr "Renditi sipas"
 
 #
 msgctxt "ui.main.loadbmk"
 msgid "Import Bookmark Set"
-msgstr "Importo kompletin e Faqe-shenjuesit"
+msgstr "Importo Grup Faqerojtësish"
 
 #
 msgctxt "ui.main.mark"
 msgid "Mark this page"
-msgstr "Shenjoje këtë faqe"
+msgstr "Vëri shenjë kësaj faqeje"
 
 #. [Wiki] Contextual menu item for HTML5 videos
 #. [Wiki] {{Identical|Mute}}
 msgctxt "ui.main.mute"
 msgid "Mute"
-msgstr "Ndal zërin"
+msgstr "Heshtoje"
 
 #
 msgctxt "ui.main.newbmk"
 msgid "Create new Bookmark Set"
-msgstr "Krijo një komplet të ri të Faqe-shenjuesit"
+msgstr "Krijoni Grup të ri Faqerojtësish"
 
 #
 msgctxt "ui.main.noSearchBar"
 msgid "Search requires an indexed ZIM file"
-msgstr "Kërkimi kërkon ZIM dokumentin e indeksuar"
+msgstr "Kërkimi lyp një kartelë ZIM të indeksuar"
 
 #
 msgctxt "ui.main.notesLabel"
 msgid "Bookmark notes:"
-msgstr "Vërejtjet e Faqe-shenjuesit"
+msgstr "Shënime faqerojtësi:"
 
-#, optional
 msgctxt "ui.main.openFile.accesskey"
 msgid "O"
-msgstr ""
+msgstr "H"
 
 #. [Wiki] This appears as the text for the menu option of [http://www.kiwix.org Kiwix].
 msgctxt "ui.main.openFile"
 msgid "Open file..."
-msgstr "Hap dosjen"
+msgstr "Hapni kartelë…"
 
 #. [Wiki] This menu entry is available by right-click with the mouse on a local link. It allows to view the targeted article in a new tab.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.openLinkInNewTab-0.png
 #. [Wiki] File:Kiwix-ui.main.openLinkInNewTab-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.openLinkInNewTab"
 msgid "Open link in new tab"
-msgstr "Hap lidhjen në një skedë të re"
+msgstr "Hape lidhjen në një skedë të re"
 
 #
 msgctxt "ui.main.osxhideapp"
 msgid "Hide &brand.brandShortName;"
-msgstr "Fshih &brand.brandShorName;"
+msgstr "Fshihe &brand.brandShorName;-in"
 
 #
 msgctxt "ui.main.osxhideothers"
 msgid "Hide Others"
-msgstr "Fshih të tjerat"
+msgstr "Fshihi të Tjerat"
 
 #. [Wiki] {{Identical|Service}}
 msgctxt "ui.main.osxservices"
 msgid "Services"
-msgstr "Shërbimet"
+msgstr "Shërbime"
 
 #. [Wiki] {{Identical|Show all}}
 msgctxt "ui.main.osxshowall"
 msgid "Show All"
-msgstr "Paraqiti të gjitha"
+msgstr "Shfaqi Krejt"
 
-#, optional
 msgctxt "ui.main.preferences.accesskey"
 msgid "n"
-msgstr ""
+msgstr "P"
 
 #. [Wiki] {{Identical|Preferences}}
 msgctxt "ui.main.preferences"
 msgid "Preferences"
-msgstr "Parapëlqimet"
+msgstr "Parapëlqime"
 
-#, optional
 msgctxt "ui.main.print.accesskey"
 msgid "P"
-msgstr ""
+msgstr "y"
 
 #. [Wiki] Text for the menu bar of [http://www.kiwix.org Kiwix], allowing to print the current page.
 #. [Wiki] {{Identical|Print}}
 msgctxt "ui.main.print"
 msgid "Print"
-msgstr "Shtyp"
+msgstr "Shtype"
 
-#, optional
 msgctxt "ui.main.printPdf.accesskey"
 msgid "D"
-msgstr ""
+msgstr "D"
 
 #. [Wiki] Text for the menu bar of [http://www.kiwix.org Kiwix], allowing a user to save a file as a PDF document.
 msgctxt "ui.main.printPdf"
 msgid "Print as PDF"
-msgstr "Shtyp në PDF"
+msgstr "Shtype si PDF"
 
-#, optional
 msgctxt "ui.main.purgeHistory.accesskey"
 msgid "P"
-msgstr ""
+msgstr "S"
 
 #. [Wiki] This is the same as "Purge history" on Firefox. That means that it clears the navigation history. Consequently Kiwix does not know any more which pages have been read previously, and the arrow buttons are disabled.
 msgctxt "ui.main.purgeHistory"
 msgid "Purge history"
-msgstr "Pastro historikun"
+msgstr "Spastro historikun"
 
-#, optional
 msgctxt "ui.main.quit.accesskey"
 msgid "Q"
-msgstr ""
+msgstr "D"
 
 #. [Wiki] This appears as the text for the menu option of [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Quit}}
 msgctxt "ui.main.quit"
 msgid "Quit"
-msgstr "Ndërprej"
+msgstr "Dil"
 
-#, optional
 msgctxt "ui.main.randomArticle.accesskey"
 msgid "R"
-msgstr ""
+msgstr "u"
 
 #. [Wiki] {{Identical|Random article}}
 msgctxt "ui.main.randomArticle"
 msgid "Random article"
-msgstr "Artikull i  rastit"
+msgstr "Artikull kuturu"
 
 #. [Wiki] To be understood in the sense: re-read file, discarding changes made so far, if any.
 msgctxt "ui.main.reload"
 msgid "Reload Bookmark Set"
-msgstr "Rifresko kompletin e Faqe-shenjuesit"
+msgstr "Ringarko Grup Faqerojtësish"
 
 #. [Wiki] Menu entry offering the user to report a bug. This open, in the external Web Browser, a Web form of Kiwix bug tracker with this purpose.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.reportabug-0.png
 #. [Wiki] File:Kiwix-ui.main.reportabug-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.reportabug"
 msgid "Report a bug"
-msgstr "Raportoni një gabim"
+msgstr "Raportoni një të metë"
 
 #. [Wiki] Menu entry offering the user to request a new feature. This open, in the external Web Browser, a Web form of Kiwix bug tracker with this purpose.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.requestafeature-0.png
 #. [Wiki] File:Kiwix-ui.main.requestafeature-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.requestafeature"
 msgid "Request a feature"
-msgstr "Kërkesë një tipar"
+msgstr "Kërkoni një veçori"
 
 #. [Wiki] {{Identical|Search results}}
 msgctxt "ui.main.results.title"
 msgid "Search results"
-msgstr "Rezultatet e kërkimit"
+msgstr "Përfundime kërkimi"
 
-#, optional
 msgctxt "ui.main.resultsbar.accesskey"
 msgid "R"
-msgstr ""
+msgstr "p"
 
 #
 msgctxt "ui.main.resultsbar"
 msgid "Results bar"
-msgstr "Shiriti i rezultatit"
+msgstr "Shtyllë përfundimesh"
 
-#, optional
 msgctxt "ui.main.saveFile.accesskey"
 msgid "S"
-msgstr ""
+msgstr "s"
 
 #. [Wiki] Text for the menu bar of [http://www.kiwix.org Kiwix], allowing to save the current page.
 msgctxt "ui.main.saveFile"
 msgid "Save page as..."
-msgstr "Ruaj faqen si..."
+msgstr "Ruajeni faqen si…"
 
 #
 msgctxt "ui.main.saveMediaAs"
 msgid "Save media as..."
-msgstr ""
+msgstr "Ruajeni median si…"
 
 #. [Wiki] {{Identical|Search}}
 msgctxt "ui.main.search"
@@ -1507,10 +1504,10 @@ msgstr "Kërko"
 #
 msgctxt "ui.main.searchBar"
 msgid "Search bar"
-msgstr "Shiriti kërkues"
+msgstr "Shtyllë kërkimesh"
 
 #. [Wiki] With "Search for...", a user may do a full text search corresponding to the currently selected text.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.searchFor-0.png
 #. [Wiki] File:Kiwix-ui.main.searchFor-1.png
@@ -1523,15 +1520,14 @@ msgstr "Kërko për"
 #
 msgctxt "ui.main.searchPlaceholder"
 msgid "Type the text to search here..."
-msgstr "Shkruani tekstin për të kërkuar këtu..."
+msgstr "Shtypni këtu tekstin që do kërkuar…"
 
-#, optional
 msgctxt "ui.main.selectall.accesskey"
 msgid "a"
-msgstr ""
+msgstr "e"
 
 #. [Wiki] Right-mouse click contextual menu entry offering to the user to select the whole current article.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.selectall-0.png
 #. [Wiki] File:Kiwix-ui.main.selectall-1.png
@@ -1539,70 +1535,64 @@ msgstr ""
 #. [Wiki] {{Identical|Select all}}
 msgctxt "ui.main.selectall"
 msgid "Select all"
-msgstr "Selekto të gjitha"
+msgstr "Përzgjidhi krejt"
 
-#, optional
 msgctxt "ui.main.server.accesskey"
 msgid "s"
-msgstr ""
+msgstr "b"
 
 #. [Wiki] {{Identical|Server}}
 msgctxt "ui.main.server"
 msgid "Server"
-msgstr "Serveri"
+msgstr "Shërbyes"
 
-#, optional
 msgctxt "ui.main.skin.accesskey"
 msgid "S"
-msgstr ""
+msgstr "ç"
 
 #. [Wiki] {{Identical|Skin}}
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.main.skin-0.png
 #. [Wiki] File:Kiwix-ui.main.skin-1.png
 #. [Wiki] </gallery>
 msgctxt "ui.main.skin"
 msgid "Skin"
-msgstr "Pamja"
+msgstr "Lëkurçe"
 
-#, optional
 msgctxt "ui.main.statusbar.accesskey"
 msgid "S"
-msgstr ""
+msgstr "n"
 
 #. [Wiki] {{Identical|Status bar}}
 msgctxt "ui.main.statusbar"
 msgid "Status bar"
-msgstr "Shiriti i gjendjes"
+msgstr "Shtyllë gjendjesh"
 
-#, optional
 msgctxt "ui.main.tabs.accesskey"
 msgid "T"
-msgstr ""
+msgstr "S"
 
 #. [Wiki] Tabbed navigation allows you to have many articles open at the same time without having many windows.
 #. [Wiki] You click on its tab in order to go to a particular article.
 #. [Wiki] {{Identical|Tab}}
 msgctxt "ui.main.tabs"
 msgid "Tabs"
-msgstr "Tab"
+msgstr "Skeda"
 
-#, optional
 msgctxt "ui.main.tools.accesskey"
 msgid "T"
-msgstr ""
+msgstr "M"
 
 #. [Wiki] Text for the main menu bar of [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Tool}}
 msgctxt "ui.main.tools"
 msgid "Tools"
-msgstr "Vegla"
+msgstr "Mjete"
 
-#, optional
 msgctxt "ui.main.transliteration.accesskey"
 msgid "T"
-msgstr ""
+msgstr "l"
 
 #
 msgctxt "ui.main.transliteration"
@@ -1612,34 +1602,31 @@ msgstr "Transliterim"
 #
 msgctxt "ui.main.unmark"
 msgid "Unmark selected"
-msgstr "Çshenjoje të zgjedhurën"
+msgstr "Hiqi shenjë të përzgjedhurës"
 
-#, optional
 msgctxt "ui.main.zoom.accesskey"
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 #. [Wiki] This appears as the text for the menu option of [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Zoom}}
 msgctxt "ui.main.zoom"
 msgid "Zoom"
-msgstr "Zmadho"
+msgstr "Zoom"
 
-#, optional
 msgctxt "ui.main.zoomin.accesskey"
 msgid "M"
-msgstr ""
+msgstr "a"
 
 #. [Wiki] This appears as the text for the menu option of [http://www.kiwix.org Kiwix].
 #. [Wiki] Magnify means "Zoom In". (As in, make the text bigger.)
 msgctxt "ui.main.zoomin"
 msgid "Magnify"
-msgstr "Zgjero"
+msgstr "Zmadhoje"
 
-#, optional
 msgctxt "ui.main.zoomorig.accesskey"
 msgid "O"
-msgstr ""
+msgstr "o"
 
 #. [Wiki] This appears as the text for the menu option of [http://www.kiwix.org Kiwix].
 #. [Wiki] "Original size" takes the text back to normal size, after the screen has been zoomed out or in.
@@ -1647,73 +1634,72 @@ msgctxt "ui.main.zoomorig"
 msgid "Original size"
 msgstr "Madhësia origjinale"
 
-#, optional
 msgctxt "ui.main.zoomout.accesskey"
 msgid "R"
-msgstr ""
+msgstr "v"
 
 #. [Wiki] This appears as the text for the menu option of [http://www.kiwix.org Kiwix].
 #. [Wiki] Reduce means "Zoom Out". (Reduce the text size.)
 msgctxt "ui.main.zoomout"
 msgid "Reduce"
-msgstr "Zvogëlo"
+msgstr "Zvogëloje"
 
 #. [Wiki] You abort your indexing process and you quit the application.
 msgctxt "ui.messages.abortIndexingConfirm"
 msgid "An indexing process is currently running. Are you sure you want to quit and abort it now?"
-msgstr "Procesi i indeksimit tashmë është në veprim. Jeni të sigurtë se dëshironi ta ndërprisni tani ?"
+msgstr "Ka në xhirim e sipër një proces indeksimi. Jeni i sigurt se doni të dilet dhe të ndërpritet?"
 
 #
 msgctxt "ui.messages.alreadyIndexingError"
 msgid "An indexing process is already running."
-msgstr "Procesi i indeksimit tashmë është në veprim"
+msgstr "Ka tashmë në xhirim e sipër një proces indeksimi."
 
 #. [Wiki] The same-line message will be found here.
 #. [Wiki] https://translatewiki.net/wiki/Kiwix:Ui.messages._ja
 msgctxt "ui.messages.bookmarkReferingOtherContent"
 msgid "This bookmark refers to other content. Do you want to load it?"
-msgstr ""
+msgstr "Ky faqerojtës i referohet tjetër lënde. Doni të ngarkohet?"
 
 #. [Wiki] This is used as a response to a confirmation dialog in [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Cancel}}
 msgctxt "ui.messages.cancel"
 msgid "Cancel"
-msgstr "Anulo"
+msgstr "Anuloje"
 
 #
 msgctxt "ui.messages.changeSkinNeedRestart"
 msgid "To change the skin, the application has to be restarted. Restart application?"
-msgstr "Për të ndryshuar pamjen, aplikacioni duhet rifilluar. Rifillo aplikacionin ?"
+msgstr "Për ndryshimin e lëkurçes duhet rinisur aplikacioni. Të riniset aplikacioni?"
 
 #. [Wiki] This is used as the title of a confirmation dialogin [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Confirm}}
 msgctxt "ui.messages.confirm"
 msgid "Confirm"
-msgstr "Konfirmo"
+msgstr "Ripohojeni"
 
 #
 msgctxt "ui.messages.contentDownloadFinished"
 msgid "Download of '%1' is finished."
-msgstr "Shkarkimi prej '$1' ka përfunduar."
+msgstr "Përfundoi shkarkimi i '$1'."
 
 #. [Wiki] Kiwix internal library allows to remove content. That means that the content won't be listed anymore, and maybe also (this is an optional choice) the file will be removed from the filesystem. To avoid accidental deletings, a confirm dialog window is displayed with this message. This message is the part specifically asking if the ZIM file should be deleted.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.messages.dontDeleteContentFiles-0.png
 #. [Wiki] </gallery>
 msgctxt "ui.messages.dontDeleteContentFiles"
 msgid "Do not delete content (ZIM) file."
-msgstr ""
+msgstr "Mos fshi kartelë lënde (ZIM)."
 
 #
 msgctxt "ui.messages.dontDisplayAnymore"
 msgid "Do not display this dialog box anymore."
-msgstr "Mos e shfaq këtë dialog më"
+msgstr "Mos e shfaq më këtë dialog."
 
 #
 msgctxt "ui.messages.endOfIndexing"
 msgid "The indexing process is finished."
-msgstr "Procesi i indeksimit është i përfunduar"
+msgstr "Procesi i indeksimit përfundoi."
 
 #. [Wiki] Indicates an error dialog in [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Error}}
@@ -1724,22 +1710,22 @@ msgstr "Gabim"
 #. [Wiki] {{Identical|Feedback}}
 msgctxt "ui.messages.feedback"
 msgid "Feedback"
-msgstr "Përshtypja"
+msgstr "Përshtypje"
 
 #. [Wiki] {{Identical|Full screen}}
 msgctxt "ui.messages.fullscreen"
 msgid "Full screen"
-msgstr "Ekrani i plotë"
+msgstr "Sa krejt ekrani"
 
 #
 msgctxt "ui.messages.indexZimFileConfirm"
 msgid "This file does not include a search index. Creating one may take several minutes. Do you want to index the ZIM file now?"
-msgstr "Ky dokument nuk përfshin indeks kërkimin. Për të krijuar një mund të ju marrë disa minuta. A dëshironi të indeksoni ZIM dokumentin menjëherë ?"
+msgstr "Kjo kartelë s\\’përfshin tregues kërkimesh. Krijimi i një të tilli mund të hajë disa minuta. Doni të indeksohet kartela ZIM që tani?"
 
 #. [Wiki] Verb. Displayed in the progress bar (bottom-right) during the indexing process of [http://www.kiwix.org Kiwix]..
 msgctxt "ui.messages.indexing"
 msgid "Indexing..."
-msgstr "Duke indeksuar"
+msgstr "Po indeksohet…"
 
 #. [Wiki] {{Identical|Information}}
 msgctxt "ui.messages.information"
@@ -1749,42 +1735,42 @@ msgstr "Informacione"
 #
 msgctxt "ui.messages.integrityCheckFailed"
 msgid "The integrity check failed. Your file is corrupted."
-msgstr "Kontrillimi i tërësishëm dështoi. Skedari juaj është i korruptuar."
+msgstr "Kontrolli i integritetit dështoi. Kartela juaj është e cenuar."
 
 #
 msgctxt "ui.messages.integrityCheckSuccessful"
 msgid "The file integrity was successfully checked."
-msgstr "Tërësia e skedarit është kontrolluar me sukses."
+msgstr "Integriteti i kartelës u kontrollua me sukses."
 
 #. [Wiki] {{Identical|Library}}
 msgctxt "ui.messages.library"
 msgid "Library"
-msgstr "Bibloteka"
+msgstr "Bibliotekë"
 
 #
 msgctxt "ui.messages.loadArticleError"
 msgid "Unable to load this article."
-msgstr "E pamundur për të ngarkuar këtë artikull"
+msgstr "S’arrihet të ngarkohet ky artikull."
 
 #
 msgctxt "ui.messages.loadZimFileError"
 msgid "Unable to load '%1'. Are you sure this is a ZIM file?"
-msgstr "E pamundur për të ngarkuar '%1' Jeni i sigurt se ky është ZIM dokument ?"
+msgstr "S’arrihet të ngarkohet '%1'. Jeni i sigurt se kjo është një kartelë ZIM?"
 
 #
 msgctxt "ui.messages.nameBookmarkSet"
 msgid "Enter Bookmark Set filename"
-msgstr "Shkruaj emrin e dokumentit të kompletit të flete-shenjuesit"
+msgstr "Jepni emër kartele Grupi Faqerojtësish"
 
 #
 msgctxt "ui.messages.newContentAvailable"
 msgid "There is new content available for download."
-msgstr "Ka përmbajtje të reja të mundshme për shkarkim."
+msgstr "Ka lëndë të re të gatshme për shkarkim."
 
 #
 msgctxt "ui.messages.newContentAvailableInvitation"
 msgid "There is new content available for download. Do you want to see it?"
-msgstr "Ka përmbajtje të reja të mundshme për shkarkim. Deshironi t'i shikoni?"
+msgstr "Ka lëndë të re të gatshme për shkarkim. Doni ta shihni?"
 
 #. [Wiki] This is used as a response to a confirmation dialog in [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|No}}
@@ -1795,23 +1781,23 @@ msgstr "jo"
 #. [Wiki] Tidak ada berkas ZIM yang aktif, silakan memuat sebuah terlebih dahulu.
 msgctxt "ui.messages.noActiveZimFile"
 msgid "No active ZIM file, please load one first."
-msgstr "Nuk ka ZIM dokument aktiv, ju lutem ngarkoni një së pari."
+msgstr "S’ka kartelë ZIM, ju lutemi, së pari ngarkoni një të tillë."
 
 #
 msgctxt "ui.messages.noResultsError"
 msgid "No results for this query."
-msgstr "Nuk ka rezultat për këtë pyetje"
+msgstr "S’ka përfundime për këtë kërkim."
 
 #. [Wiki] This is used as a response to a confirmation dialog in [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|OK}}
 msgctxt "ui.messages.ok"
 msgid "OK"
-msgstr "Në rregull"
+msgstr "OK"
 
 #
 msgctxt "ui.messages.preparingContentDownload"
 msgid "Preparing download..."
-msgstr "Duke përgatitur shkarkimin..."
+msgstr "Po përgatitet shkarkimi…"
 
 #
 msgctxt "ui.messages.quitFullscreen"
@@ -1819,28 +1805,28 @@ msgid "Exit full screen"
 msgstr "Dil nga mënyra Sa Krejt Ekrani"
 
 #. [Wiki] Kiwix internal library allows to remove content. That means that the content won't be listed anymore, and maybe also (this is an optional choice) the file will be removed from the filesystem. To avoid accidental deletings, a confirm dialog window is displayed with this message.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.messages.removeContentConfirm-0.png
 #. [Wiki] </gallery>
 msgctxt "ui.messages.removeContentConfirm"
 msgid "Are you sure you want to remove this entry from the list and all related files?"
-msgstr ""
+msgstr "Jeni i sigurt se doni të hiqet ky zë nga lista dhe krejt kartelat përkatëse?"
 
 #
 msgctxt "ui.messages.removeProfileConfirm"
 msgid "Do you want to remove your profile?"
-msgstr "A dëshironi të hiqni profilin tuaj ?"
+msgstr "Doni të hiqet profili juaj?"
 
 #
 msgctxt "ui.messages.restartConfirm"
 msgid "%1 needs to be restarted. Do you want to do it now?"
-msgstr "%1 duhet rifilluar. A doni ta bëni tani ?"
+msgstr "%1 lyp të riniset. Doni të bëhet tani?"
 
 #
 msgctxt "ui.messages.selectBookmarkSet"
 msgid "Select Bookmark Set file"
-msgstr "Zgjidh dokumentin e kompletit të flete-shenjuesit"
+msgstr "Përzgjidhni kartelë Grupi Faqerojtësish"
 
 #. [Wiki] This is used as a response to a confirmation dialog in [http://www.kiwix.org Kiwix].
 #. [Wiki] {{Identical|Yes}}
@@ -1851,41 +1837,41 @@ msgstr "po"
 #. [Wiki] {{Identical|Browse}}
 msgctxt "ui.preferences.browse"
 msgid "Browse"
-msgstr "Shfleto"
+msgstr "Shfletoni"
 
 #. [Wiki] {{Identical|Cancel}}
 msgctxt "ui.preferences.cancel"
 msgid "Cancel"
-msgstr "Anulo"
+msgstr "Anuloje"
 
 #
 msgctxt "ui.preferences.downloadCatalogs"
 msgid "Download remote catalog(s)"
-msgstr "Shkarko katalogun (-gjet) ne distancë"
+msgstr "Shkarko katalog(ë) të largët"
 
 #. [Wiki] By opening a new ZIM file, Kiwix systematically asks to create a fulltext index. This can be annoying. This preference allows to avoid this.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.preferences.neverAskToIndex-0.png
 #. [Wiki] </gallery>
 msgctxt "ui.preferences.neverAskToIndex"
 msgid "Never ask to index"
-msgstr ""
+msgstr "Mos pyet kurrë për indeksim"
 
 #. [Wiki] {{Identical|Preferences}}
 msgctxt "ui.preferences.preferences"
 msgid "Preferences"
-msgstr "Parapëlqimet"
+msgstr "Parapëlqime"
 
 #
 msgctxt "ui.preferences.profileDirectory"
 msgid "Profile directory"
-msgstr "Regjistri i profilit"
+msgstr "Drejtori profilesh"
 
 #. [Wiki] {{Identical|Save}}
 msgctxt "ui.preferences.save"
 msgid "Save"
-msgstr "Ruaj"
+msgstr "Ruaje"
 
 #. [Wiki] Option (checkbox) to remember the tabs
 msgctxt "ui.preferences.tabs"
@@ -1904,10 +1890,10 @@ msgstr "Mbylle"
 #. [Wiki] {{Identical|Load}}
 msgctxt "ui.server.load"
 msgid "Load"
-msgstr "Ngarko"
+msgstr "Ngarkoje"
 
 #. [Wiki] Clicking on the "Start" button launches the Kiwix server. This server allows to share the Kiwix local library on the LAN with the HTTP protocol.
-#. [Wiki] 
+#. [Wiki]
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.server.start-0.png
 #. [Wiki] File:Kiwix-ui.server.start-1.png
@@ -1915,7 +1901,7 @@ msgstr "Ngarko"
 #. [Wiki] {{Identical|Start}}
 msgctxt "ui.server.start"
 msgid "Start"
-msgstr "Fillo"
+msgstr "Nise"
 
 #. [Wiki] <gallery>
 #. [Wiki] File:Kiwix-ui.server.start-1.png
@@ -1923,5 +1909,4 @@ msgstr "Fillo"
 #. [Wiki] {{Identical|Stop}}
 msgctxt "ui.server.stop"
 msgid "Stop"
-msgstr "Ndalo"
-
+msgstr "Ndale"
